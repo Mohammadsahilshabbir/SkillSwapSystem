@@ -1,4 +1,6 @@
 Project Description
+
+
 SkillSwapApp is a Java-based console application that connects people who want to exchange skills with each other. It allows users to:
 
 Register with their skills they can teach and skills they want to learn
